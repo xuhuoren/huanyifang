@@ -1,0 +1,22 @@
+#banner-wrapper {
+	padding: 70px 50px;
+	background-image: url(../img/nature_sz_216_hawaii_sky_and_sea_aquamarine_1920x1200_17219_17_500250.jpg);
+}
+div.title {
+	background: #38a4f2;
+	padding: 10px;
+	margin: 0 -15px;	
+}
+div.title p {
+	color: white;
+	margin-bottom: 0;
+}
+div.content .col-xs-4 {
+	border: 1px dashed grey;
+}
+div.content h2 {
+	font-size: 1.2em;
+	color: white;
+	background: #38a4f2;
+	text-align: center;
+}

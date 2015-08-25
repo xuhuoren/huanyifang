@@ -1,0 +1,11 @@
+.text {
+	background: #6dc9ff;
+	margin: 10px -15px;	
+	padding: 1em;
+}
+.text h1 {
+	text-align: center;
+	color: white;
+	margin: 0;
+	font-size: 1.2em;
+}
